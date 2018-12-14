@@ -1,2 +1,8 @@
-# portfolio
-Data Science Portfolio
+# Data Science Portfolio by Tatiana Garcia
+
+This is a repository of my data science portfolio. It contains projects on data visualization and data-driven models.
+
+# Exploratory Analysis and Data Visualization
+
+# Data-driven Models
+
